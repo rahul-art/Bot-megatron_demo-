@@ -1,3 +1,4 @@
 # Bot-megatron_demo-
 
-https://github.com/rahul-art/Bot-megatron_demo-/blob/main/demo.png
+![alt text](https://github.com/rahul-art/Bot-megatron_demo-/blob/main/demo.png?raw=true)
+
